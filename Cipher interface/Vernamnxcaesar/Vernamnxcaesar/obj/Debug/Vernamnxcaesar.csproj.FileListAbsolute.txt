@@ -1,0 +1,10 @@
+H:\Compsco\VisualStudio2019\Cipher interface\Vernamnxcaesar\Vernamnxcaesar\bin\Debug\Vernamnxcaesar.exe.config
+H:\Compsco\VisualStudio2019\Cipher interface\Vernamnxcaesar\Vernamnxcaesar\bin\Debug\Vernamnxcaesar.exe
+H:\Compsco\VisualStudio2019\Cipher interface\Vernamnxcaesar\Vernamnxcaesar\bin\Debug\Vernamnxcaesar.pdb
+H:\Compsco\VisualStudio2019\Cipher interface\Vernamnxcaesar\Vernamnxcaesar\obj\Debug\Vernamnxcaesar.csprojAssemblyReference.cache
+H:\Compsco\VisualStudio2019\Cipher interface\Vernamnxcaesar\Vernamnxcaesar\obj\Debug\Vernamnxcaesar.Form1.resources
+H:\Compsco\VisualStudio2019\Cipher interface\Vernamnxcaesar\Vernamnxcaesar\obj\Debug\Vernamnxcaesar.Properties.Resources.resources
+H:\Compsco\VisualStudio2019\Cipher interface\Vernamnxcaesar\Vernamnxcaesar\obj\Debug\Vernamnxcaesar.csproj.GenerateResource.cache
+H:\Compsco\VisualStudio2019\Cipher interface\Vernamnxcaesar\Vernamnxcaesar\obj\Debug\Vernamnxcaesar.csproj.CoreCompileInputs.cache
+H:\Compsco\VisualStudio2019\Cipher interface\Vernamnxcaesar\Vernamnxcaesar\obj\Debug\Vernamnxcaesar.exe
+H:\Compsco\VisualStudio2019\Cipher interface\Vernamnxcaesar\Vernamnxcaesar\obj\Debug\Vernamnxcaesar.pdb
